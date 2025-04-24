@@ -1,10 +1,31 @@
-# Levi Spellmeyer's complete project portfolio
-This repository is a complete collection of my work/projects that I have completed and am curently working on.
-Each individual project will have a single dedicated folder that includes any source code as well as documentation of my process, what I learned from the project, and challenges I faced while working.
-Note: Not every project is a coding project, therefore some folders may only contain documentation and notes.
+# My name is Levi Spellmeyer
+### <p align="center"> Welcome to the heart of all my intellectual endeavors.</p>
 
+---
+
+### The things you can find within this hub:
+
+
+### Things You Can Find Within This Hub:
+
+- **Completed and in-progress Projects**:  
+  Projects I have taken on to showcase my knowledge or to experiment with new concepts or technologies.
+
+- **Writeups**:  
+  Insightful documentation of my thought process as I learn new things.
+
+- **Reflections**:  
+  Honest reflections of my projects and growth throughout various endeavors.
+
+- **Notes**:  
+  Notes from my time studying for certifications, taking online courses, completing interactive rooms (like THM), or even from watching informative YouTube videos.
+
+- **Resources**:  
+  Resources I have found and decided to take note of for future use or to suggest to others.
+
+  
 
 ## Project Overview and table of contents
-| Project Name | Description | Link to project |
-|--------------|--------------|-------------------|
-| Project 1: MC server | Using an old laptop to securly host a MC server | |
+| Project Name | Description | Link to project |  Tags |
+|--------------|--------------|-------------------|------------------|
+| Project 1: MC server | Using an old laptop to securly host a MC server | | Documentation |
