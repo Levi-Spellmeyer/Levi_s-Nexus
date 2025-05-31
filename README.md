@@ -29,3 +29,4 @@
 | Project Name | Description | Link to project |  Tags |
 |--------------|--------------|-------------------|------------------|
 | Project 1: MC server | Using an old laptop to securly host a MC server | | Documentation |
+| Project 2: CTF writeups | Writeups of completed ctfs from PicoCTF |  | Documentation, Writeup, AI |
